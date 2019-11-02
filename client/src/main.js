@@ -3,7 +3,6 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
-<<<<<<< HEAD
 import Vuetify from 'vuetify'
 import { sync } from 'vuex-router-sync'
 import 'vuetify/dist/vuetify.min.css'
@@ -20,19 +19,11 @@ Vue.component('panel', Panel)
 
 sync(store, router)
 
-=======
-
-Vue.config.productionTip = false
-
->>>>>>> 4f4b1fb02e02852ca84b085a93766afb92563fda
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
   router,
-<<<<<<< HEAD
   store,
-=======
->>>>>>> 4f4b1fb02e02852ca84b085a93766afb92563fda
   components: { App },
   template: '<App/>'
 })

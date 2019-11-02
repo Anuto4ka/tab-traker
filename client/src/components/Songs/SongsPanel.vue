@@ -84,4 +84,11 @@ export default {
   .song-genre{
     font-size:18px;
   }
+  .v-icon{
+    display: flex;
+  }
+  .album-image{
+    width: 220px;
+    height: 220px;
+  }
 </style>

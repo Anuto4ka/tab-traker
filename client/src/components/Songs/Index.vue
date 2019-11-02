@@ -7,7 +7,7 @@
     <v-flex :class="{
         xs6: isUserLoggedIn,
         xs12: !isUserLoggedIn
-      }">
+      }" class="ml-2">
       <songs-search-panel />
       <songs-panel class="mt-2" />
     </v-flex>

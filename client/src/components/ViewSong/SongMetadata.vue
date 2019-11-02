@@ -122,4 +122,8 @@ export default {
   .song-genre{
     font-size:18px;
   }
+  .album-image{
+    width: 330px;
+    height: 330px;
+  }
 </style>
