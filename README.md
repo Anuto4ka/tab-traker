@@ -2,7 +2,7 @@
 A Vue.js / Express.js web application for keeping track of guiter tabs
 
 
-Client
+CLIENT
 
 cd client
 
@@ -11,7 +11,7 @@ npm install
 npm start
 
 
-Server
+SERVER
 
 cd server
 
